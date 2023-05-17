@@ -1,0 +1,30 @@
+.logos1{
+    padding: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 150px
+}
+i{
+    size: 30px;
+}
+.main-head{
+    margin-top: 50px;
+    text-align: center;
+}
+.logos1 a{
+    
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
+.ul-content About{
+    color: rgb(138, 159, 177);
+   border-top: 2px solid  rgb(138, 159, 177);
+  }
+  .logo{
+    text-align: center;
+    font-size: 30px;
+  }
+  

@@ -1,0 +1,132 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+ 
+
+ul{
+    list-style: none;
+    
+    
+}
+.logo{
+    
+    padding-left: 20px;
+    letter-spacing: 3px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+.navbar{
+    display: flex;
+    flex-wrap: wrap;
+   background-color: rgb(82, 83, 181);
+    color: rgb(246, 246, 246);
+    width: 100%;
+    text-align: center;
+    border-radius: 5px;
+}
+.ul{
+    
+    margin: 0 auto;
+    padding-left: 150px;
+}
+ul{
+    
+    display: flex;
+    gap: 80px;
+    font-size: 20px;
+}
+input{
+    margin:0 auto;
+    height: 25px;
+}
+input:hover{
+    background-color: rgb(138, 159, 177) ;
+}
+.ul-content{
+    color: white;
+    text-decoration: none;
+}
+
+.ul-content:hover{
+    color: rgb(138, 159, 177);
+    border-top: 2px solid  rgb(138, 159, 177);
+}
+section{
+    max-width: 100%;
+}
+
+.section{
+    max-width: 100%;
+    padding : 70px 20px 150px 20px;
+   
+    background-color: rgb(211, 234, 244);
+    margin: 0px;
+    display: flex;
+    justify-content: space-between;
+    gap:50px;
+}
+
+.section img{
+    
+    height: 300px;
+    width: 300px;
+
+}
+.btn{
+    color: aliceblue;
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: black;
+
+    margin: 10px;
+}
+.btn:hover{
+      background-color: rgb(211, 234, 244); 
+      color: black;
+
+}
+
+.section2{
+    background-color: rgb(210, 251, 238);
+    padding: 50px 100px 100px 100px;
+}
+.section2 , .section3  h1{
+    text-align: center;
+    margin-top: 0;
+    font-size: 40px;
+}
+.section2 li{
+    padding-top: 30px;
+   list-style:decimal;
+    font-size: 25px;
+    line-height: 50px;
+}
+.section3{
+    background-color: rgb(255, 215, 215);
+    padding: 50px 100px 100px 100px;
+
+}
+.section3 ul{
+    padding-top: 30px;
+    list-style:decimal;
+     font-size: 25px;
+     line-height: 50px;
+}
+footer{
+    padding: 50px;
+    
+    line-height: 30px;
+    
+}
+.foot2{
+    padding-top: 18px;
+}
+.foot-l {
+    padding-top: 80px;
+    justify-content: center;
+}
+
